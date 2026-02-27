@@ -17,12 +17,29 @@
 
 > *"Bridging the gap between software and hardware, one robot at a time"* 🤖
 
-I'm a passionate **Software Engineer** specializing in **Robotics** and **ROS2** development. I thrive at the intersection of AI and hardware, building intelligent systems that interact with the real world.
+Designing intelligent systems. Improving them relentlessly.
 
-🔭 **Currently Working On:** Autonomous navigation systems using ROS2  
-🌱 **Learning:** Advanced Computer Vision & Deep Reinforcement Learning  
-💡 **Fun Fact:** I believe robots will be our future companions, not replacements!  
-⚡ **Hobby:** Building DIY robots and competing in hackathons
+I am a Software Engineer focused on AI research and intelligent system architecture. My work centers on building end-to-end AI systems and analyzing them at a structural level to identify performance gaps, architectural inefficiencies, and opportunities for optimization.
+
+I am particularly interested in designing adaptive systems that learn continuously, operate autonomously, and improve through feedback. My approach emphasizes modular design, experimentation, and iterative refinement.
+
+Core Areas of Interest:
+
+AI system architecture and scalability
+
+Model optimization and performance analysis
+
+Agent-based systems and autonomous decision-making
+
+Research-driven development and experimentation
+
+I focus not just on building models, but on engineering systems that make models better.
+
+If you want a slightly more research-oriented and minimal version:
+
+AI Research | Intelligent Systems | Architecture & Optimization
+
+I build and analyze AI systems with an emphasis on structure, scalability, and continuous improvement. Interested in adaptive agents, learning architectures, and system-level optimization.
 
 <br clear="both">
 
@@ -59,16 +76,7 @@ I'm a passionate **Software Engineer** specializing in **Robotics** and **ROS2**
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  
-| 🏆 Project | 📝 Description | 🔧 Tech Stack |
-|------------|----------------|---------------|
-| **[Autonomous Robot Navigation](https://github.com/Pravin-raj-03)** | ROS2-based autonomous navigation system with SLAM | `ROS2` `Python` `C++` `Gazebo` |
-| **[Computer Vision Pipeline](https://github.com/Pravin-raj-03)** | Real-time object detection and tracking system | `OpenCV` `YOLO` `Python` |
-| **[Robot Arm Controller](https://github.com/Pravin-raj-03)** | 6-DOF robotic arm control system with inverse kinematics | `ROS2` `MoveIt` `C++` |
-| **[Swarm Robotics Simulator](https://github.com/Pravin-raj-03)** | Multi-agent coordination system for swarm robots | `Python` `Gazebo` `ROS2` |
 
-</div>
 
 ---
 
