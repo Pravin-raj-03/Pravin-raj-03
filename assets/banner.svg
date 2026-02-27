@@ -1,0 +1,54 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes gradient {
+      0% { stop-color: #ff00cc; }
+      50% { stop-color: #3333ff; }
+      100% { stop-color: #ff00cc; }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    @keyframes draw {
+      0% { stroke-dashoffset: 1000; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .bg { fill: #0d1117; }
+    .text { 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: bold;
+      font-size: 48px;
+      fill: white;
+    }
+    .subtext {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 20px;
+      fill: #8b949e;
+      animation: float 3s ease-in-out infinite;
+    }
+    .name-path {
+      stroke: white;
+      stroke-width: 2;
+      stroke-dasharray: 1000;
+      animation: draw 3s ease-out forwards;
+    }
+  </style>
+  <rect width="800" height="200" rx="10" class="bg" />
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff00cc;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff00cc; #3333ff; #ff00cc" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#3333ff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3333ff; #ff00cc; #3333ff" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" class="text" fill="url(#grad1)">
+    Hi, I'm Pravin Raj 🚀
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="subtext">
+    Software Engineer & ROS2 Enthusiast
+  </text>
+  <rect x="0" y="195" width="800" height="5" fill="url(#grad1)" />
+</svg>

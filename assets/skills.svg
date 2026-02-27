@@ -1,0 +1,52 @@
+<svg width="600" height="150" viewBox="0 0 600 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.1); opacity: 1; }
+    }
+    .skill-icon {
+      animation: pulse 3s infinite ease-in-out;
+    }
+    .skill-text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 14px;
+      fill: #8b949e;
+      text-anchor: middle;
+    }
+  </style>
+  
+  <!-- ROS2 -->
+  <g transform="translate(50, 50)" class="skill-icon" style="animation-delay: 0s;">
+    <circle cx="25" cy="25" r="25" fill="#22314E" />
+    <text x="25" y="70" class="skill-text">ROS2</text>
+    <path d="M15 15L35 35M35 15L15 35" stroke="#ffffff" stroke-width="3" />
+  </g>
+
+  <!-- Python -->
+  <g transform="translate(150, 50)" class="skill-icon" style="animation-delay: 0.5s;">
+    <circle cx="25" cy="25" r="25" fill="#3776AB" />
+    <text x="25" y="70" class="skill-text">Python</text>
+    <path d="M25 10V40M10 25H40" stroke="#ffffff" stroke-width="3" />
+  </g>
+
+  <!-- C++ -->
+  <g transform="translate(250, 50)" class="skill-icon" style="animation-delay: 1s;">
+    <circle cx="25" cy="25" r="25" fill="#00599C" />
+    <text x="25" y="70" class="skill-text">C++</text>
+    <text x="25" y="32" font-family="Arial" font-size="20" fill="white" text-anchor="middle">C++</text>
+  </g>
+
+  <!-- Linux -->
+  <g transform="translate(350, 50)" class="skill-icon" style="animation-delay: 1.5s;">
+    <circle cx="25" cy="25" r="25" fill="#FCC624" />
+    <text x="25" y="70" class="skill-text">Linux</text>
+    <path d="M25 15C15 15 10 25 10 35H40C40 25 35 15 25 15Z" fill="#000" />
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(450, 50)" class="skill-icon" style="animation-delay: 2s;">
+    <circle cx="25" cy="25" r="25" fill="#F05032" />
+    <text x="25" y="70" class="skill-text">Git</text>
+    <circle cx="25" cy="25" r="10" stroke="white" stroke-width="2" />
+  </g>
+</svg>
