@@ -35,9 +35,10 @@ I'm a passionate **Software Engineer** with a deep interest in **Robotics** and 
 
 ### 🤝 Let's Connect!
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/pravin-raj-03/) (Add your link if different)
-- 🐦 [Twitter](https://twitter.com/PravinRaj03) (Add your link if different)
-- 📧 [Email](mailto:pravinraj2054@gmail.com)
+- 🌍 [LinkedIn](www.linkedin.com/in/pravin-raj-r-p)
+) 
+- 
+- 📧 [Email](mailto:thewayitis07@gmail.com)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Pravin-raj-03&color=blueviolet" alt="Profile Views" />
