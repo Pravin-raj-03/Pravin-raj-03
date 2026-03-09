@@ -3,43 +3,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Pravin%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20|%20Robotics%20Enthusiast%20|%20ROS2%20Developer&descAlignY=55&descSize=20" width="100%" />
 </div>
 
+<h1 align="center">Hi there, I'm Pravin Raj! 👋</h1>
+
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+Robotic+Systems;Passionate+about+AI+%2B+Hardware;Let's+create+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Data+Scientist;Specializing+in+Machine+Learning+%26+AI+Systems;Currently+Exploring+Robotics+%26+ROS2;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pravin-raj-03&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Pravin's GitHub Views" />
+  <a href="https://github.com/Pravin-raj-03"><img src="https://img.shields.io/github/followers/Pravin-raj-03?label=Followers&style=social" alt="Followers"></a>
+</div>
+
+---
 
 <!-- About Me Section with Side Image -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> About Me
+### 🧠 About Me
 
-> *"Bridging the gap between software and hardware, one robot at a time"* 🤖
+I am an **AI Researcher and Data Scientist** with a core focus on **Machine Learning and Artificial Intelligence Systems**. Right now, my journey has led me deep into the world of **Robotics**, bridging the gap between advanced predictive models and physical, autonomous machines.
 
-Designing intelligent systems. Improving them relentlessly.
-
-I am a Software Engineer focused on AI research and intelligent system architecture. My work centers on building end-to-end AI systems and analyzing them at a structural level to identify performance gaps, architectural inefficiencies, and opportunities for optimization.
-
-I am particularly interested in designing adaptive systems that learn continuously, operate autonomously, and improve through feedback. My approach emphasizes modular design, experimentation, and iterative refinement.
-
-Core Areas of Interest:
-
-AI system architecture and scalability
-
-Model optimization and performance analysis
-
-Agent-based systems and autonomous decision-making
-
-Research-driven development and experimentation
-
-I focus not just on building models, but on engineering systems that make models better.
-
-If you want a slightly more research-oriented and minimal version:
-
-AI Research | Intelligent Systems | Architecture & Optimization
-
-I build and analyze AI systems with an emphasis on structure, scalability, and continuous improvement. Interested in adaptive agents, learning architectures, and system-level optimization.
+- 🔬 **Main Stream:** Machine Learning, Deep Learning, AI Systems Architecture  
+- 🤖 **Current Focus:** Robotics, ROS2, Reinforcement Learning for Control  
+- 🎯 **Goal:** To develop robust AI models that empower the next generation of intelligent robots.  
+- 💡 **Fun Fact:** I love bringing models into the physical world and making hardware think for itself!
 
 <br clear="both">
 
@@ -48,55 +38,37 @@ I build and analyze AI systems with an emphasis on structure, scalability, and c
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### 🤖 Robotics & AI
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### 🛠️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF9900?style=for-the-badge&logo=gazebo&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" /></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS/ROS2" title="ROS/ROS2" /></code>
 </div>
-
----
-
-### 🚀 Featured Projects
-
-
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pravin-raj-03&show_icons=true&count_private=true&hide_border=true&title_color=38C2FF&icon_color=38C2FF&text_color=c9d1d9&bg_color=0d1117" alt="Pravin Raj github stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-raj-03&layout=compact&hide_border=true&title_color=38C2FF&text_color=c9d1d9&bg_color=0d1117" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Pravin-raj-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A9B2C3&icon_color=00F0FF&count_private=true" alt="Pravin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-raj-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A9B2C3" alt="Top Languages" width="48%" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin-raj-03&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=38C2FF&ring=38C2FF&fire=FF9554&currStreakLabel=38C2FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin-raj-03&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=A9B2C3&currStreakLabel=A9B2C3" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin-raj-03&custom_title=Pravin's%20Contribution%20Graph&bg_color=0d1117&color=38C2FF&line=38C2FF&point=FF9554&area_color=151515&title_color=fff&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin-raj-03&custom_title=Pravin's%20Contribution%20Graph&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FF9554&area_color=151515&title_color=fff&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -121,15 +93,14 @@ I build and analyze AI systems with an emphasis on structure, scalability, and c
 
 ---
 
-### 🤝 Let's Connect!
+### 🌐 Let's Connect
+
+Looking to collaborate on AI, ML, or Robotics projects? Feel free to reach out!
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-raj-r-p)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thewayitis07@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Pravin-raj-03)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  
+  <a href="mailto:pravinraj2054@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pravin-raj-03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/PravinRaj03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
 </div>
 
 ---
@@ -144,14 +115,4 @@ I build and analyze AI systems with an emphasis on structure, scalability, and c
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pravin-raj-03&style=for-the-badge&color=38C2FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pravin-raj-03?style=for-the-badge&color=38C2FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Pravin-raj-03?style=for-the-badge&color=38C2FF" alt="Stars" />
-</div>
-
-<div align="center">
-  <b>⭐ If you find my work interesting, don't forget to star my repositories! ⭐</b>
 </div>
