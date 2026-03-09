@@ -1,9 +1,9 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Pravin%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20|%20Robotics%20Enthusiast%20|%20ROS2%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Pravin%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Pravin Raj! 👋</h1>
+<h1 align="center">Hi there, I'm Pravin Raj! </h1>
 
 <!-- Typing Animation -->
 <div align="center">
